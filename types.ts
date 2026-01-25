@@ -1,0 +1,6 @@
+export enum UIState {
+  IDLE = 'IDLE',
+  MODE_SELECT = 'MODE_SELECT',
+  LISTENING = 'LISTENING',
+  THINKING = 'THINKING'
+}
